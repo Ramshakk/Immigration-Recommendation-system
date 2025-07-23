@@ -1,0 +1,95 @@
+  {
+    "Where is your Country of Citizenship?": "United Kingdom",
+    "Where is your Country of Residency?": "United Kingdom",
+    "How old are you?": "32",
+    "What is your gender identity?": "null",
+    "What is your main reason for seeking a Visa?": "Job",
+    "List of Education": [
+        {
+            "level": "Master's Degree",
+            "degree": "Computer Science",
+            "GPA":"3.8"
+        },
+         {
+        "level": "Bachelor's Degree",
+        "degree": "engineering",
+        "GPA": "3.9"
+       }
+    ],
+    "List of Certifications": [
+        {
+            "name": "no",
+            "description": "no"
+        }
+    ],
+    "Have you received an admission offer from a University?*": "Yes",
+    "What is the University's Name?": null,
+    "Where is the University located?": null,
+    "List of experiences": [
+    {
+      "occupation": "Software engineer",
+      "experience": "5",
+      "designation": "No"
+    }
+    
+    ],
+    "Do you have any experience in entrepreneurship or running a business?*": "No",
+    "Please describe your Entrepreneurship or Business management Experience:": null,
+    "Are you a business owner?": "No Business Ownership",
+    "Is your business currently active?": "No",
+    "What is the field of your business, or what has it been in the past?": null,
+    "Do you have a Job Offer from an international company?": "No",
+    "Job offer details?": null,
+    "List of languages you know": [
+        {
+            "language": "English"
+        }
+    ],
+    "List of languages proficiency test": [
+        {
+            "language": "English",
+            "test": "IELTS General",
+            "score": "9"
+        
+        }
+    ],
+    "What is your marital status?": "Single",
+    "Do you have any Family members or Relatives in other Countries?": "No",
+    "Relative Abroad List": "Null",
+    "Do you have any other Relatives you would like to specify?": "Yes",
+    "Specify the country of your other relative?": "Null",
+    "Do you have any Criminal Records?":"No",
+    "Criminal Record List": "No",
+    "Have you served in the military?": "yes",
+    "Was your military service voluntary or compulsory?":"voluntary",
+    "Please specify the Country in which you served in the military": "Germany",
+    "Have you previously Immigrated to another country?": null,
+    "Please describe the Visas you applied for in previous Immigration attempts": "null",
+    "Which Country did you Immigrate to?": "null",
+    "Have you, or any other person included in this application, ever been removed, deported, or excluded from any Country?*": null,
+    "Have you, or any other person included in this application, ever overstayed a Visa in any country?*": null,
+    "Where was the country where you overstayed a Visa?": null,
+    "Have you ever applied for Asylum?*": "No",
+    "What was the result of your Asylum attempt?": null,
+    "Where was the country where you applied for Asylum status?": null,
+    "How much liquid assets do you have (in USD)?": "No Savings",
+    "How much investment do you have including crypto, real estate, gold, business, stocks, bund, or any other types (in USD)?": "$100,001 to $500,000",
+    "How much assets do you have in total? (liquid and non-liquid assets)":"$30,001 to $40,0000",
+    "How much are you willing to allocate to your visa application process if it requires investment?": "$100,001 to $150,0000",
+    "Do you have any Disabilities or Special needs?": [],
+    "Do you have any Medical conditions i.e contagious diseases?": [
+        "Blindness or Low Vision"],
+    "Do you have any Medical conditions i.e non-contagious diseases?": ["Post-Traumatic Stress Disorder (PTSD)"],
+    "Do you have an invitation from an individual, a company, or an institution?*": "Yes",
+    "What country was the invitation from?": "No",
+    "What is the purpose of your Invitation?": "No",
+    "Do you have a Sponsor in your country of Destination?*": "No",
+    "What type of Sponsorship do you have?": "Yes",
+    "Please describe your Sponsorship's details": "Yes",
+    "Do you have any Specialized Skills or Talents?*": "Yes",
+    "Please describe your Specialized Skills or Talents:": "Null",
+    "Have you done any Innovation or Research?*": "Yes",
+    "Please describe your Innovation or Research:": "Null",
+    "Please list the Awards or Honors received": [],
+    "Please describe any other Achievements you've received": "no"
+}
