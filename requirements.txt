@@ -1,0 +1,8 @@
+Flask==2.1.0
+langchain==0.0.61
+langchain-community==0.0.1
+openai==0.27.0
+rapidfuzz==2.0.9
+langdetect==1.0.9
+translatepy==1.5.0
+requests==2.27.1
